@@ -1,0 +1,11 @@
+.recipe-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.recipe-image > .image {
+    margin: 15px;
+    max-width: 400px;
+    border-radius: 15px;
+}
